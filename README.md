@@ -1,3 +1,3 @@
 # Hello World!
 
-Welcome to my GitHub site, where random code and repositories will be added :d
+Welcome to my GitHub site, where random repositories and code will be added :d
